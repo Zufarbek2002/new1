@@ -1,0 +1,194 @@
+{
+    "data": [
+        {
+            "familiyasi": "Abdullayev",
+            "ismi": "Azizbek",
+            "otasining_ismi": "Shavkat",
+            "yoshi": 29,
+            "yashash_joyi": "Toshkent, Yunusobod",
+            "ish_joyi": "O'zbekiston Milliy Universiteti",
+            "tugilgan_sana": "1995-06-15",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Raximov",
+            "ismi": "Doston",
+            "otasining_ismi": "Rahmatulla",
+            "yoshi": 34,
+            "yashash_joyi": "Samarkand, Markaziy",
+            "ish_joyi": "Xalq banki",
+            "tugilgan_sana": "1989-03-10",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Mirkamilov",
+            "ismi": "Farhod",
+            "otasining_ismi": "Dilshod",
+            "yoshi": 25,
+            "yashash_joyi": "Buxoro, Buxoro shahri",
+            "ish_joyi": "O'zbekiston temir yo'llari",
+            "tugilgan_sana": "1999-11-30",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Tursunov",
+            "ismi": "Bekzod",
+            "otasining_ismi": "Anvar",
+            "yoshi": 22,
+            "yashash_joyi": "Namangan, Chortoq",
+            "ish_joyi": "IT kompaniya",
+            "tugilgan_sana": "2002-07-14",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Shodiev",
+            "ismi": "Shukhrat",
+            "otasining_ismi": "Murodjon",
+            "yoshi": 31,
+            "yashash_joyi": "Andijon, Jalaquduq",
+            "ish_joyi": "Samsung kompaniyasi",
+            "tugilgan_sana": "1992-01-20",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Kamilov",
+            "ismi": "Azamat",
+            "otasining_ismi": "Abdurahmon",
+            "yoshi": 27,
+            "yashash_joyi": "Toshkent, Chilonzor",
+            "ish_joyi": "Boshqaruv kompaniyasi",
+            "tugilgan_sana": "1997-05-18",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Babaev",
+            "ismi": "Nodirbek",
+            "otasining_ismi": "Qodir",
+            "yoshi": 40,
+            "yashash_joyi": "Fargona, Fargona shahri",
+            "ish_joyi": "Xalqaro tashkilot",
+            "tugilgan_sana": "1983-10-25",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Qodirov",
+            "ismi": "Akram",
+            "otasining_ismi": "Jaloliddin",
+            "yoshi": 33,
+            "yashash_joyi": "Navoiy, Karmana",
+            "ish_joyi": "O'zbekiston davlat universiteti",
+            "tugilgan_sana": "1990-12-02",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Salimov",
+            "ismi": "Javlon",
+            "otasining_ismi": "Salohiddin",
+            "yoshi": 28,
+            "yashash_joyi": "Qashqadaryo, Qarshi",
+            "ish_joyi": "Xalqaro tashkilot",
+            "tugilgan_sana": "1995-08-05",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Asqarov",
+            "ismi": "Temur",
+            "otasining_ismi": "Abdullayev",
+            "yoshi": 36,
+            "yashash_joyi": "Surxondaryo, Denov",
+            "ish_joyi": "Maktab o'qituvchisi",
+            "tugilgan_sana": "1987-04-13",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Xodjayev",
+            "ismi": "Jasur",
+            "otasining_ismi": "Asadulla",
+            "yoshi": 21,
+            "yashash_joyi": "Samarqand, Samarqand shahri",
+            "ish_joyi": "Student",
+            "tugilgan_sana": "2003-02-08",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Raufov",
+            "ismi": "Zafar",
+            "otasining_ismi": "Rauf",
+            "yoshi": 45,
+            "yashash_joyi": "Buxoro, Buxoro shahri",
+            "ish_joyi": "Kommersiyaviy kompaniya",
+            "tugilgan_sana": "1978-09-22",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Yusupov",
+            "ismi": "Dilmurod",
+            "otasining_ismi": "Omonov",
+            "yoshi": 39,
+            "yashash_joyi": "Toshkent, Sergeli",
+            "ish_joyi": "Milliy kompaniya",
+            "tugilgan_sana": "1985-12-01",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Davlatov",
+            "ismi": "Murod",
+            "otasining_ismi": "Said",
+            "yoshi": 50,
+            "yashash_joyi": "Toshkent, Shayhontohur",
+            "ish_joyi": "Boshqaruv kompaniyasi",
+            "tugilgan_sana": "1973-06-30",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Ergashev",
+            "ismi": "Maksud",
+            "otasining_ismi": "Orif",
+            "yoshi": 32,
+            "yashash_joyi": "Farg'ona, Quva",
+            "ish_joyi": "Shifokor",
+            "tugilgan_sana": "1992-02-17",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Nasirov",
+            "ismi": "Abduvahob",
+            "otasining_ismi": "Maksud",
+            "yoshi": 37,
+            "yashash_joyi": "Namangan, Namangan shahri",
+            "ish_joyi": "Elektronika mutaxassisi",
+            "tugilgan_sana": "1986-01-25",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Khodjaev",
+            "ismi": "Muborak",
+            "otasining_ismi": "Kurbanali",
+            "yoshi": 26,
+            "yashash_joyi": "Toshkent, Mirobod",
+            "ish_joyi": "Advokat",
+            "tugilgan_sana": "1997-10-10",
+            "avto_ulov": "yo'q"
+        },
+        {
+            "familiyasi": "Jumayev",
+            "ismi": "Rustam",
+            "otasining_ismi": "Shodmon",
+            "yoshi": 38,
+            "yashash_joyi": "Xorazm, Urganch",
+            "ish_joyi": "Muallim",
+            "tugilgan_sana": "1985-05-15",
+            "avto_ulov": "bor"
+        },
+        {
+            "familiyasi": "Akbarov",
+            "ismi": "Sherzod",
+            "otasining_ismi": "Akhmad",
+            "yoshi": 23,
+            "yashash_joyi": "Jizzax, Jizzax shahri",
+            "ish_joyi": "Student",
+            "tugilgan_sana": "2000-04-21",
+            "avto_ulov": "yo'q"
+        }
+    ]
+}
