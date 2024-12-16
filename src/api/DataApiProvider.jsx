@@ -2,7 +2,7 @@
 import { createContext, useEffect, useState } from "react";
 
 const DataApiContext = createContext();
-const url = "http://localhost:3000/data";
+const url = "https://mocki.io/v1/814504fc-4ccd-4272-b130-18751627657e";
 
 const DataApiProvider = ({ children }) => {
   const [data, setData] = useState([]);
