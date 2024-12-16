@@ -18,8 +18,8 @@ const DataApiProvider = ({ children }) => {
         throw new Error("Network response was not ok");
       }
       const fetchedData = await res.json();
-      setData(fetchedData);
-      setSearch(fetchedData);
+      setData(fetchedData.data);
+      setSearch(fetchedData.data);
       setError(null);
     } catch (error) {
       console.error(error);
